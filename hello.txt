@@ -1,0 +1,586 @@
+Feature: danceability
+Threshold: 0.736
+Feature: danceability
+Threshold: 0.6865
+Feature: danceability
+Threshold: 0.6055
+Feature: danceability
+Threshold: 0.5665
+Feature: danceability
+Threshold: 0.5529999999999999
+Feature: danceability
+Threshold: 0.504
+Feature: danceability
+Threshold: 0.48450000000000004
+Feature: danceability
+Threshold: 0.4665
+Feature: danceability
+Threshold: 0.4515
+Feature: danceability
+Threshold: 0.396
+Feature: danceability
+Threshold: 0.3585
+Feature: danceability
+Threshold: 0.3245
+The Chainsmokers
+R3HAB
+Feature: danceability
+Threshold: 0.3645
+Kaskade
+James Arthur
+Feature: danceability
+Threshold: 0.4205
+ILLENIUM
+Feature: danceability
+Threshold: 0.443
+Feature: danceability
+Threshold: 0.4385
+Feature: danceability
+Threshold: 0.4355
+Feature: danceability
+Threshold: 0.433
+Skrillex
+FANNYPACK
+Ellie Goulding
+Martin Garrix
+Katy Perry
+Feature: danceability
+Threshold: 0.466
+Feature: danceability
+Threshold: 0.463
+Jonas Blue
+Armin van Buuren
+Martin Garrix
+Steve Aoki
+Feature: danceability
+Threshold: 0.503
+Disclosure
+Alesso
+Feature: danceability
+Threshold: 0.5275000000000001
+Feature: danceability
+Threshold: 0.511
+Zedd
+Feature: danceability
+Threshold: 0.5135000000000001
+Gryffin
+Lindsey Stirling
+Feature: danceability
+Threshold: 0.538
+Feature: danceability
+Threshold: 0.533
+Feature: danceability
+Threshold: 0.5305
+Ed Marquis
+Avicii
+Feature: danceability
+Threshold: 0.5345
+Audien
+Steve Aoki
+Feature: danceability
+Threshold: 0.542
+Sam Feldt
+Feature: danceability
+Threshold: 0.5465
+Why Don't We
+Feature: danceability
+Threshold: 0.549
+Galantis
+Feature: danceability
+Threshold: 0.5505
+ARTY
+David Guetta
+Feature: danceability
+Threshold: 0.5634999999999999
+ILLENIUM
+5 Seconds of Summer
+Feature: danceability
+Threshold: 0.5974999999999999
+Feature: danceability
+Threshold: 0.5905
+Feature: danceability
+Threshold: 0.58
+Feature: danceability
+Threshold: 0.571
+Feature: danceability
+Threshold: 0.57
+Feature: danceability
+Threshold: 0.5685
+PNAU
+San Holo
+Robin Schulz
+Feature: danceability
+Threshold: 0.5714999999999999
+3LAU
+Feature: danceability
+Threshold: 0.5734999999999999
+Avicii
+Armin van Buuren
+Feature: danceability
+Threshold: 0.587
+Feature: danceability
+Threshold: 0.5825
+Gryffin
+Martin Garrix
+Feature: danceability
+Threshold: 0.589
+Feature: danceability
+Threshold: 0.588
+Calvin Harris
+Silk City
+Sam Feldt
+Feature: danceability
+Threshold: 0.591
+Kygo
+Feature: danceability
+Threshold: 0.5925
+The Chainsmokers
+Feature: danceability
+Threshold: 0.595
+Avicii
+Zedd
+Feature: danceability
+Threshold: 0.601
+MEDUZA
+David Guetta
+Feature: danceability
+Threshold: 0.6545000000000001
+Feature: danceability
+Threshold: 0.6435
+Feature: danceability
+Threshold: 0.6234999999999999
+Feature: danceability
+Threshold: 0.6125
+Feature: danceability
+Threshold: 0.609
+Feature: danceability
+Threshold: 0.607
+David Guetta
+SHAED
+Feature: danceability
+Threshold: 0.61
+Feature: danceability
+Threshold: 0.609
+Arlissa
+Feature: danceability
+Threshold: 0.609
+David Guetta
+Estelle
+Carly Rae Jepsen
+Feature: danceability
+Threshold: 0.619
+Feature: danceability
+Threshold: 0.6174999999999999
+Feature: danceability
+Threshold: 0.6154999999999999
+Swedish House Mafia
+The Chainsmokers
+Kygo
+Feature: danceability
+Threshold: 0.6194999999999999
+Lost Kings
+Feature: danceability
+Threshold: 0.621
+The Chainsmokers
+Sia
+Feature: danceability
+Threshold: 0.6335
+Feature: danceability
+Threshold: 0.626
+Feature: danceability
+Threshold: 0.625
+Ava Max
+Feature: danceability
+Threshold: 0.625
+Cashae
+Gryffin
+Feature: danceability
+Threshold: 0.6285000000000001
+Molella
+Feature: danceability
+Threshold: 0.6315
+Feature: danceability
+Threshold: 0.63
+Matt Simons
+Calvin Harris
+Feature: danceability
+Threshold: 0.6325000000000001
+GATTÜSO
+The Chainsmokers
+Feature: danceability
+Threshold: 0.639
+Katy Perry
+Feature: danceability
+Threshold: 0.641
+Feature: danceability
+Threshold: 0.64
+Kygo
+Feature: danceability
+Threshold: 0.64
+Bastille
+Charli XCX
+Feature: danceability
+Threshold: 0.6415
+Charlie Puth
+Feature: danceability
+Threshold: 0.6425000000000001
+Shawn Mendes
+ILLENIUM
+Feature: danceability
+Threshold: 0.648
+Feature: danceability
+Threshold: 0.647
+Tiësto
+ODESZA
+Feature: danceability
+Threshold: 0.6505000000000001
+Feature: danceability
+Threshold: 0.6495
+Feature: danceability
+Threshold: 0.649
+Starley
+DJ Snake
+Lewis Capaldi
+Feature: danceability
+Threshold: 0.653
+Feature: danceability
+Threshold: 0.6515
+Martin Garrix
+Jonas Blue
+Feature: danceability
+Threshold: 0.6535
+Feature: danceability
+Threshold: 0.653
+Starley
+Mike Perry
+Feature: danceability
+Threshold: 0.654
+Justin Bieber
+Hot Shade
+Feature: danceability
+Threshold: 0.669
+Feature: danceability
+Threshold: 0.665
+Feature: danceability
+Threshold: 0.661
+Feature: danceability
+Threshold: 0.6595
+Feature: danceability
+Threshold: 0.6565000000000001
+Shallou
+Ne-Yo
+Steve Aoki
+Feature: danceability
+Threshold: 0.662
+NOTD
+Feature: danceability
+Threshold: 0.663
+ayokay
+Feature: danceability
+Threshold: 0.6635
+Ellie Goulding
+Dua Lipa
+Feature: danceability
+Threshold: 0.667
+Zara Larsson
+David Guetta
+Feature: danceability
+Threshold: 0.6695
+Feature: danceability
+Threshold: 0.669
+Ellie Goulding
+Justin Timberlake
+Feature: danceability
+Threshold: 0.672
+Feature: danceability
+Threshold: 0.67
+Billie Eilish
+Sigala
+Feature: danceability
+Threshold: 0.6765000000000001
+Feature: danceability
+Threshold: 0.6735
+Feature: danceability
+Threshold: 0.6725000000000001
+Steve Aoki
+Kygo
+Feature: danceability
+Threshold: 0.6745000000000001
+Mabel
+Feature: danceability
+Threshold: 0.675
+Ed Sheeran
+Feature: danceability
+Threshold: 0.675
+Lewis Capaldi
+Zara Larsson
+Feature: danceability
+Threshold: 0.679
+Feature: danceability
+Threshold: 0.6785000000000001
+Feature: danceability
+Threshold: 0.678
+David Guetta
+Armin van Buuren
+Kaskade
+Feature: danceability
+Threshold: 0.6825000000000001
+Feature: danceability
+Threshold: 0.679
+Nikki Vianna
+Feature: danceability
+Threshold: 0.6805000000000001
+Ed Sheeran
+Feature: danceability
+Threshold: 0.682
+Becky Hill
+Marshmello
+Feature: danceability
+Threshold: 0.685
+David Guetta
+Gryffin
+Feature: danceability
+Threshold: 0.7124999999999999
+Feature: danceability
+Threshold: 0.697
+Feature: danceability
+Threshold: 0.692
+Feature: danceability
+Threshold: 0.69
+Bazzi vs.
+Feature: danceability
+Threshold: 0.69
+Martin Garrix
+Feature: danceability
+Threshold: 0.6904999999999999
+Zedd
+A R I Z O N A
+Feature: danceability
+Threshold: 0.6935
+Feature: danceability
+Threshold: 0.693
+Kygo
+NOTD
+Feature: danceability
+Threshold: 0.694
+Dynoro
+AJ Mitchell
+Feature: danceability
+Threshold: 0.702
+Feature: danceability
+Threshold: 0.6995
+Carly Rae Jepsen
+NOTD
+Feature: danceability
+Threshold: 0.706
+Feature: danceability
+Threshold: 0.703
+Feature: danceability
+Threshold: 0.702
+Starley
+Ellie Goulding
+Feature: danceability
+Threshold: 0.7035
+Maggie Lindemann
+MOTi
+Feature: danceability
+Threshold: 0.707
+Feature: danceability
+Threshold: 0.706
+Lost Frequencies
+Shawn Mendes
+Feature: danceability
+Threshold: 0.708
+Kaskade
+R3HAB
+Feature: danceability
+Threshold: 0.7195
+Feature: danceability
+Threshold: 0.716
+Feature: danceability
+Threshold: 0.7135
+The Chainsmokers
+Feature: danceability
+Threshold: 0.714
+GASHI
+DVBBS
+Feature: danceability
+Threshold: 0.717
+James Arthur
+The Chainsmokers
+Feature: danceability
+Threshold: 0.728
+Feature: danceability
+Threshold: 0.721
+Feature: danceability
+Threshold: 0.7204999999999999
+NOTD
+The Black Eyed Peas
+Feature: danceability
+Threshold: 0.722
+FAULHABER
+Feature: danceability
+Threshold: 0.7244999999999999
+Zara Larsson
+Feature: danceability
+Threshold: 0.726
+R3HAB
+Maroon 5
+Feature: danceability
+Threshold: 0.7315
+Bazzi vs.
+Feature: danceability
+Threshold: 0.7335
+AJ Mitchell
+Feature: danceability
+Threshold: 0.7344999999999999
+Alesso
+Olympis
+Feature: danceability
+Threshold: 0.7745
+Feature: danceability
+Threshold: 0.757
+Feature: danceability
+Threshold: 0.7495
+Feature: danceability
+Threshold: 0.747
+Feature: danceability
+Threshold: 0.745
+Feature: danceability
+Threshold: 0.744
+Feature: danceability
+Threshold: 0.7404999999999999
+Feature: danceability
+Threshold: 0.7375
+Feature: danceability
+Threshold: 0.737
+Riton
+Clean Bandit
+Calvin Harris
+Feature: danceability
+Threshold: 0.7435
+Feature: danceability
+Threshold: 0.7424999999999999
+Ava Max
+Justin Bieber
+Tiësto
+Feature: danceability
+Threshold: 0.744
+Loud Luxury
+Joel Corry
+Sam Smith
+Feature: danceability
+Threshold: 0.748
+Smash Mouth
+Feature: danceability
+Threshold: 0.748
+Ed Sheeran
+Feature: danceability
+Threshold: 0.748
+The Chainsmokers
+MAX
+Feature: danceability
+Threshold: 0.754
+Feature: danceability
+Threshold: 0.7515000000000001
+for KING & COUNTRY
+Feature: danceability
+Threshold: 0.7525
+DJ Snake
+Zedd
+Ava Max
+Feature: danceability
+Threshold: 0.77
+Feature: danceability
+Threshold: 0.7665
+Feature: danceability
+Threshold: 0.7635000000000001
+Feature: danceability
+Threshold: 0.7605
+J Balvin
+MOTi
+Feature: danceability
+Threshold: 0.7655000000000001
+Dimitri Vegas & Like Mike
+Lil Nas X
+Feature: danceability
+Threshold: 0.7675000000000001
+Elderbrook
+Alesso
+Feature: danceability
+Threshold: 0.771
+Katy Perry
+Kharfi
+Feature: danceability
+Threshold: 0.786
+Feature: danceability
+Threshold: 0.7825
+Feature: danceability
+Threshold: 0.781
+Feature: danceability
+Threshold: 0.778
+Khalid
+Calvin Harris
+Steve Void
+Mark Ronson
+Feature: danceability
+Threshold: 0.8035
+Feature: danceability
+Threshold: 0.791
+Feature: danceability
+Threshold: 0.79
+Feature: danceability
+Threshold: 0.789
+Jax Jones
+Feature: danceability
+Threshold: 0.789
+Sean Paul
+Ed Sheeran
+Feature: danceability
+Threshold: 0.7905
+benny blanco
+Calvin Harris
+Feature: danceability
+Threshold: 0.793
+Feature: danceability
+Threshold: 0.791
+Marshmello
+Brando
+Feature: danceability
+Threshold: 0.7985
+Skrillex
+Avicii
+Feature: danceability
+Threshold: 0.861
+Feature: danceability
+Threshold: 0.815
+Feature: danceability
+Threshold: 0.8095
+Ed Sheeran
+Herve Pagez
+Feature: danceability
+Threshold: 0.8334999999999999
+Feature: danceability
+Threshold: 0.8205
+Marshmello
+Jonas Blue
+Feature: danceability
+Threshold: 0.844
+Feature: danceability
+Threshold: 0.8394999999999999
+Herve Pagez
+DJ Snake
+Feature: danceability
+Threshold: 0.8485
+Charli XCX
+Lady Gaga
+Feature: danceability
+Threshold: 0.9255
+Feature: danceability
+Threshold: 0.891
+Loud Luxury
+Feature: danceability
+Threshold: 0.905
+Glaceo
+Jax Jones
+Paul Kalkbrenner
